@@ -3,7 +3,6 @@
 - 🌱 이화여자대학교 휴먼기계바이오공학과에서 공부중입니다.
 - 💞️ Python, R, SQL 등을 사용하고 있습니다.
 - 📫 gmldi0519@ewhain.net
-- 
 <!---
 HeeKuk99/HeeKuk99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
